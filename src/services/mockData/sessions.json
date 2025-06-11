@@ -1,0 +1,38 @@
+[
+  {
+    "id": "session-1",
+    "matchId": "match-1",
+    "datetime": "2024-03-15T14:00:00.000Z",
+    "location": "Sarah's Kitchen, Capitol Hill",
+    "duration": 90,
+    "status": "completed",
+    "credits": 2
+  },
+  {
+    "id": "session-2",
+    "matchId": "match-2",
+    "datetime": "2024-03-18T19:00:00.000Z",
+    "location": "Local Coffee Shop",
+    "duration": 60,
+    "status": "scheduled",
+    "credits": 1
+  },
+  {
+    "id": "session-3",
+    "matchId": "match-3",
+    "datetime": "2024-03-20T18:30:00.000Z",
+    "location": "Mike's Music Room",
+    "duration": 60,
+    "status": "scheduled",
+    "credits": 1
+  },
+  {
+    "id": "session-4",
+    "matchId": "match-1",
+    "datetime": "2024-03-22T15:00:00.000Z",
+    "location": "Sarah's Kitchen, Capitol Hill",
+    "duration": 90,
+    "status": "scheduled",
+    "credits": 2
+  }
+]

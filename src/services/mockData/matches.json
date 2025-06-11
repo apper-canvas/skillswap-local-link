@@ -1,0 +1,29 @@
+[
+  {
+    "id": "match-1",
+    "teacherId": "user-2",
+    "learnerId": "current-user",
+    "skillId": "skill-1",
+    "score": 0.92,
+    "status": "accepted",
+    "proposedTime": "2024-03-15T14:00:00.000Z"
+  },
+  {
+    "id": "match-2",
+    "teacherId": "current-user",
+    "learnerId": "user-4",
+    "skillId": "skill-5",
+    "score": 0.88,
+    "status": "pending",
+    "proposedTime": "2024-03-18T19:00:00.000Z"
+  },
+  {
+    "id": "match-3",
+    "teacherId": "user-3",
+    "learnerId": "current-user",
+    "skillId": "skill-2",
+    "score": 0.85,
+    "status": "accepted",
+    "proposedTime": "2024-03-20T18:30:00.000Z"
+  }
+]

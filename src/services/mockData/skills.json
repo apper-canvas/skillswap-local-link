@@ -1,0 +1,52 @@
+[
+  {
+    "id": "skill-1",
+    "userId": "user-2",
+    "type": "offer",
+    "title": "Learn to Cook Italian Pasta",
+    "description": "Master the art of making fresh pasta from scratch! I'll teach you traditional techniques passed down from my Italian grandmother, including how to make perfect dough and classic sauces.",
+    "category": "cooking",
+    "level": "beginner",
+    "availability": ["weekends", "evenings"]
+  },
+  {
+    "id": "skill-2",
+    "userId": "user-3",
+    "type": "offer",
+    "title": "Guitar Lessons for Beginners",
+    "description": "Learn acoustic guitar fundamentals - chords, strumming patterns, and your first songs. Perfect for complete beginners who want to start their musical journey.",
+    "category": "music",
+    "level": "beginner",
+    "availability": ["evenings", "weekends"]
+  },
+  {
+    "id": "skill-3",
+    "userId": "current-user",
+    "type": "request",
+    "title": "Learn Spanish Conversation",
+    "description": "Looking for someone to practice conversational Spanish with. I'm intermediate level and want to improve my fluency through regular practice sessions.",
+    "category": "language",
+    "level": "intermediate",
+    "availability": ["weekends"]
+  },
+  {
+    "id": "skill-4",
+    "userId": "user-4",
+    "type": "offer",
+    "title": "Beginner Yoga & Meditation",
+    "description": "Gentle introduction to yoga poses and mindfulness meditation. Perfect for stress relief and building flexibility. All levels welcome!",
+    "category": "fitness",
+    "level": "beginner",
+    "availability": ["mornings", "weekends"]
+  },
+  {
+    "id": "skill-5",
+    "userId": "current-user",
+    "type": "offer",
+    "title": "JavaScript & Web Development",
+    "description": "Teach modern web development using JavaScript, React, and CSS. Great for beginners wanting to build their first website or career switchers.",
+    "category": "tech",
+    "level": "intermediate",
+    "availability": ["evenings", "weekends"]
+  }
+]

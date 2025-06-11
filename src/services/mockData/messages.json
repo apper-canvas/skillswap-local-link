@@ -1,0 +1,42 @@
+[
+  {
+    "id": "msg-1",
+    "senderId": "user-2",
+    "recipientId": "current-user",
+    "content": "Hi Alex! I saw you're interested in learning Italian cooking. I'd love to teach you some family recipes!",
+    "timestamp": "2024-03-10T10:30:00.000Z",
+    "sessionId": "session-1"
+  },
+  {
+    "id": "msg-2",
+    "senderId": "current-user",
+    "recipientId": "user-2",
+    "content": "That sounds amazing! I've always wanted to learn how to make fresh pasta. When would be a good time for you?",
+    "timestamp": "2024-03-10T11:15:00.000Z",
+    "sessionId": "session-1"
+  },
+  {
+    "id": "msg-3",
+    "senderId": "user-2",
+    "recipientId": "current-user",
+    "content": "How about this Saturday at 2 PM? We can do it at my place - I have all the equipment we'll need.",
+    "timestamp": "2024-03-10T12:00:00.000Z",
+    "sessionId": "session-1"
+  },
+  {
+    "id": "msg-4",
+    "senderId": "current-user",
+    "recipientId": "user-2",
+    "content": "Perfect! Should I bring anything specific?",
+    "timestamp": "2024-03-10T12:30:00.000Z",
+    "sessionId": "session-1"
+  },
+  {
+    "id": "msg-5",
+    "senderId": "user-3",
+    "recipientId": "current-user",
+    "content": "Hey! Ready for your guitar lesson tomorrow? I've prepared some easy songs we can start with.",
+    "timestamp": "2024-03-19T20:00:00.000Z",
+    "sessionId": "session-3"
+  }
+]

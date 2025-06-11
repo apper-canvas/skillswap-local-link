@@ -1,0 +1,42 @@
+[
+  {
+    "id": "current-user",
+    "name": "Alex Johnson",
+    "location": "Downtown Seattle",
+    "bio": "Love learning new things and sharing knowledge with neighbors. Passionate about music and tech!",
+    "avatar": null,
+    "rating": 4.8,
+    "credits": 12,
+    "joinDate": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "user-2",
+    "name": "Sarah Martinez",
+    "location": "Capitol Hill",
+    "bio": "Professional chef turned neighborhood cooking teacher. Let's cook together!",
+    "avatar": null,
+    "rating": 4.9,
+    "credits": 8,
+    "joinDate": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-3",
+    "name": "Mike Chen",
+    "location": "Fremont",
+    "bio": "Software engineer by day, guitar teacher by evening. Music brings us together!",
+    "avatar": null,
+    "rating": 4.7,
+    "credits": 15,
+    "joinDate": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "user-4",
+    "name": "Emma Davis",
+    "location": "Ballard",
+    "bio": "Yoga instructor and language enthusiast. Currently learning Spanish!",
+    "avatar": null,
+    "rating": 4.6,
+    "credits": 6,
+    "joinDate": "2024-02-10T00:00:00.000Z"
+  }
+]

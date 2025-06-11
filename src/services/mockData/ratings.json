@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rating-1",
+    "sessionId": "session-1",
+    "raterId": "current-user",
+    "rating": 5,
+    "comment": "Sarah is an incredible teacher! Learned so much about authentic Italian cooking. The pasta was delicious and the techniques were easy to follow."
+  },
+  {
+    "id": "rating-2",
+    "sessionId": "session-1",
+    "raterId": "user-2",
+    "rating": 5,
+    "comment": "Alex was a wonderful student - very engaged and asked great questions. Looking forward to our next cooking session!"
+  },
+  {
+    "id": "rating-3",
+    "sessionId": "session-2",
+    "raterId": "user-4",
+    "rating": 5,
+    "comment": "Alex explained JavaScript concepts clearly and patiently. Great at breaking down complex topics into understandable chunks."
+  }
+]
